@@ -1,0 +1,94 @@
+Date,User,Tweet Content,Negative,Neutral,Positive,Most Likely,Maximum Sentiment
+12/11/2021,jpmorgan,agile payments infrastructures redefining future shopping,0.025942773,0.81152076,0.1625364,0.81152076,Neutral
+12/11/2021,jpmorgan,city lights exhilarating honored partners consecutive year,0.001168259,0.0379681,0.96086377,0.96086377,Positive
+09/11/2021,jpmorgan,enchanting city inspires connects art enthusiasts gather paris week parisphotofair artists expand boundaries traditional photography honored celebrating years partnership,0.001921487,0.24731858,0.75075984,0.75075984,Positive
+04/11/2021,jpmorgan,machine learning cybersecurity technology shaping future finance learn innovation jp morgan,0.008927237,0.75206435,0.23900852,0.75206435,Neutral
+03/11/2021,jpmorgan,oneonone mentoring handson experience new programme partnership careerent support disadvantaged students build skills need future careers,0.008095814,0.42570567,0.5661986,0.5661986,Positive
+25/10/2021,jpmorgan,innovation meets insights jp morgan asset management delivers market analysis clients new ar experience,0.009951565,0.61570495,0.37434345,0.61570495,Neutral
+15/10/2021,jpmorgan,jennifer piepszak believes taking longterm view performance best way determine getting done right,0.017930508,0.5530633,0.42900625,0.5530633,Neutral
+08/10/2021,jpmorgan,global finance selected jp morgan worlds best bank based performance reputation management excellence leadership digital transformation corporate citizenshiphonored recognized best global bank best investment bank best private bank,0.002595412,0.10297803,0.89442647,0.89442647,Positive
+06/10/2021,jpmorgan,headquarters new york city kicking annual women move leadership day inspiring leaders trailblazers entrepreneurs share ways powerher,0.001892318,0.21472679,0.78338075,0.78338075,Positive
+29/09/2021,jpmorgan,make plan whatever decide forget retirement assets make sure consider options available,0.080592506,0.8028402,0.11656733,0.8028402,Neutral
+24/09/2021,jpmorgan,adoption digital business models continues drive immediate long term growth businesses,0.002795462,0.24449985,0.7527046,0.7527046,Positive
+23/09/2021,jpmorgan,rt harvardhbs professor emeritus joe bower alice rodriguez head community impact managing director jpmorgan chase discu,0.039223652,0.9133649,0.047411457,0.9133649,Neutral
+23/09/2021,jpmorgan,driving private market technology investments europe matt gehl jp morgan head emea technology investment banking shares thoughts cnbc,0.03005203,0.9275594,0.042388603,0.9275594,Neutral
+14/09/2021,jpmorgan,taptopay payments technology transformed north america largest public transportation network,0.008457576,0.44902426,0.5425182,0.5425182,Positive
+31/08/2021,jpmorgan,rising global interest esg matters sparked revolution across investment industry learn stay,0.006141638,0.36312774,0.6307306,0.6307306,Positive
+25/08/2021,jpmorgan,consumers businesses use apis every day example order rideshare app use process apis initiate payment company treasury management system use data apis see daily view account balance realtime,0.022588298,0.8650506,0.11236114,0.8650506,Neutral
+25/08/2021,jpmorgan,apis enable two different systems seamless connect communicate securely two main types apis data apis automatically retrieve information like account balances process apis trigger service like initiating payment,0.008536865,0.6119815,0.37948155,0.6119815,Neutral
+25/08/2021,jpmorgan,corporate treasurers also need better visibility data automated access information like foreign exchange rates cash balances currency reserves key decisionmaking particularly fastmoving market environment,0.13126412,0.7540802,0.11465564,0.7540802,Neutral
+25/08/2021,jpmorgan,digital needs vary based company example global ecommerce company might want daily view cash balances across international accounts food delivery app may need pay drivers instantly certain currency,0.04808313,0.8855119,0.06640501,0.8855119,Neutral
+25/08/2021,jpmorgan,corporate treasury function manages aspects payments liquidity company historically involved lot spreadsheets amp legacy systems digitizing cash management key ensure seamless experience challenges treasurers face,0.025541687,0.75737274,0.21708551,0.75737274,Neutral
+24/08/2021,jpmorgan,global trade executes first ever fully integrated trade finance transaction using cme sofr reliance industries,0.009896969,0.710344,0.27975917,0.710344,Neutral
+18/08/2021,jpmorgan,rt chukaumunna jpmorgan already biggest underwriter green bonds globally leading innovation esg derivativ,0.003360167,0.33111903,0.6655209,0.6655209,Positive
+20/07/2021,jpmorgan,tips help plan finances graduation visit,0.017962625,0.79643905,0.18559821,0.79643905,Neutral
+20/07/2021,jpmorgan,find stand student debt everyone situation different making plan monthly payment first step towards staying track,0.06348754,0.7943676,0.14214481,0.7943676,Neutral
+09/07/2021,jpmorgan,jay barry head usd government bond strategy discusses factors influencing sudden reversal bond market,0.041093767,0.9318614,0.027044866,0.9318614,Neutral
+08/07/2021,jpmorgan,jp morgans midyear outlook explores future holds economy midst global recovery,0.005771874,0.704255,0.2899732,0.704255,Neutral
+07/07/2021,jpmorgan,global firms target trade finance deals incorporate sustainable technologies meet rising demand esg investing,0.004930039,0.43269816,0.5623719,0.5623719,Positive
+06/07/2021,jpmorgan,broadband adoption rise among us consumers jp morgans fred turpin explains shift,0.013926967,0.806576,0.179497,0.806576,Neutral
+02/07/2021,jpmorgan,german midsized companies continue see value abroad business leaders looking outward achieve growth plan expand outside european union next three years international selling buying remain top strategy expansion,0.002860412,0.25344962,0.7436899,0.7436899,Positive
+02/07/2021,jpmorgan,midsized businesses germany preparing postpandemic world top executives share thoughts germany business leaders outlook survey,0.026924118,0.8895593,0.08351656,0.8895593,Neutral
+01/07/2021,jpmorgan,brian lamb global head diversity equity inclusion reflects leading crisis shares vision future,0.15994315,0.78646266,0.053594165,0.78646266,Neutral
+30/06/2021,jpmorgan,filter daily noise get latest market trends right inbox subscribe new wealth management newsletter know,0.062076323,0.78226495,0.15565869,0.78226495,Neutral
+30/06/2021,jpmorgan,jp morgan summer reading list selection tells stories people places pathways help move us forward browse next read,0.002968547,0.5375059,0.45952538,0.5375059,Neutral
+29/06/2021,jpmorgan,mike radenbaugh founder ceo rad power bikes future sustainable transportation emerging trends summit,0.005077458,0.68535966,0.30956298,0.68535966,Neutral
+24/06/2021,jpmorgan,jp morgans alexia quadrani explains permanent shift online video consumption,0.044182956,0.87949306,0.07632408,0.87949306,Neutral
+23/06/2021,jpmorgan,pandemic ushered new cashierless payments technology transforming retail experience,0.005326956,0.4344996,0.5601735,0.5601735,Positive
+22/06/2021,jpmorgan,industry leaders rethinking business discover whats next future work innovation,0.006641651,0.5029177,0.49044058,0.5029177,Neutral
+22/06/2021,jpmorgan,explore three investment insights remainder private bank midyear outlook plus analysis state us economy,0.013895466,0.8814566,0.10464796,0.8814566,Neutral
+18/06/2021,jpmorgan,rt financeinsider jpmorgans private bank ceo wants hire many advisors heres firms plan double head count fiv,0.019253962,0.85260206,0.12814386,0.85260206,Neutral
+17/06/2021,jpmorgan,steady increase adoption smartphones expected consumers continue demand faster data speeds jp morgan research explains,0.004597853,0.42708603,0.5683161,0.5683161,Positive
+16/06/2021,jpmorgan,nyc largest povertyfighting organization robinhoodnyc helping rebuild new york city pandemic proceeds investors conference goes directly initiatives elevate community,0.00645787,0.37555847,0.6179837,0.6179837,Positive
+13/06/2021,jpmorgan,brightest minds business gather virtually week share insights raise funds fight poverty robinhoodnyc investors conference,0.0044658,0.39672035,0.5988139,0.5988139,Positive
+08/06/2021,jpmorgan,rt cnbcipr analysing outlook markets amid global recovery jpmorgan private bank emea head investment strategy grace peters,0.006194219,0.7881425,0.2056632,0.7881425,Neutral
+04/06/2021,jpmorgan,expect overall equity market next decade,0.039922778,0.87706435,0.08301284,0.87706435,Neutral
+03/06/2021,jpmorgan,mary callahan erdoes jp morgans ceo asset amp wealth management reveals top themes driving future industry adjusting changing client needs,0.010991935,0.8332411,0.15576693,0.8332411,Neutral
+02/06/2021,jpmorgan,jpmorgan chase melinda yee franklin using public private sector experience foster community engagement,0.003627664,0.57789207,0.41848013,0.57789207,Neutral
+27/05/2021,jpmorgan,matthew gehl cohead emea technology investment banking discusses outlook tech industry via cnbc,0.021320622,0.9192434,0.059436038,0.9192434,Neutral
+26/05/2021,jpmorgan,toyotas dollardenominated sustainability bond offering led jp morgan driving sustainability agenda shaping overall corporate transformation,0.005697222,0.741533,0.25276983,0.741533,Neutral
+25/05/2021,jpmorgan,broadband adoption rise among us consumers jp morgan banker fred turpin explains shift jpmtmc,0.008435222,0.75934136,0.23222335,0.75934136,Neutral
+25/05/2021,jpmorgan,unpack investment banking terms,0.20100138,0.7674379,0.031560794,0.7674379,Neutral
+25/05/2021,jpmorgan,next middle office technology continue play crucial role helping function navigate investment complexity volume providing sharper insights help investment decisionmaking,0.007948303,0.3619185,0.63013315,0.63013315,Positive
+25/05/2021,jpmorgan,constraints like market changes regulatory requirements increased technology staffing complex assets made harder run middle office operations inhouse many investment managers considering outsourcing provider capabilities,0.4608052,0.5045856,0.034609172,0.5045856,Neutral
+25/05/2021,jpmorgan,today middle office main responsibilities trade takes place confirm details participants oversee trade settlements track asset reconcile digital records manage investment data,0.021006545,0.9084162,0.07057724,0.9084162,Neutral
+25/05/2021,jpmorgan,new digital market meant investors brokers investment managers maintain compare records verify transactions oversight beginning would become middle office,0.044004824,0.87045354,0.08554163,0.87045354,Neutral
+25/05/2021,jpmorgan,nasdaq launched first fully electronic stock exchange allowed participants confirm trades transfer money record stock ownership,0.007387836,0.6340552,0.35855713,0.6340552,Neutral
+25/05/2021,jpmorgan,financial markets developed became safer investors regulation trading volumes reached levels made hard support physical exchanges,0.022703938,0.47647896,0.5008171,0.5008171,Positive
+25/05/2021,jpmorgan,today trading done electronically enormous volumes moving global markets every day middle office comes,0.021705456,0.7433314,0.23496316,0.7433314,Neutral
+25/05/2021,jpmorgan,earliest days stock market trade exchange two people physical money physical stock certificates since trade visible person assets could easily verified,0.013885994,0.62068456,0.3654294,0.62068456,Neutral
+25/05/2021,jpmorgan,middle office common financial term likely heard may sound like somewhere go physical location instead represents happens trade made let take closer look,0.103000246,0.85940117,0.037598584,0.85940117,Neutral
+24/05/2021,jpmorgan,bridge look like years ago picture overlooking brooklyn bridge taken courtesy library congress though nyc skyline changed brooklyn bridge steady constant scene city,0.022539912,0.83900356,0.13845651,0.83900356,Neutral
+24/05/2021,jpmorgan,et may brooklyn bridge opened connecting brooklyn manhattan according site people crossed bridge first day pic original invite opening ceremony,0.009571212,0.9206071,0.06982174,0.9206071,Neutral
+24/05/2021,jpmorgan,time spring brooklyn manhattan city new york starting open doors onthisdayinhistory famous brooklyn bridge financed jpm predecessor also opened first time,0.005742314,0.77595633,0.21830143,0.77595633,Neutral
+19/05/2021,jpmorgan,global firms target trade finance deals incorporate sustainable technologies meet rising demand esg investing,0.004930039,0.43269816,0.5623719,0.5623719,Positive
+13/05/2021,jpmorgan,released jpmorgan chase esg report provides updates approach managing climaterelated risks advancing inclusive growth racial equity running strong business,0.005579772,0.3746917,0.6197286,0.6197286,Positive
+10/05/2021,jpmorgan,kym francis jim sinocchi share distinct perspectives disability inclusion jpmorgan chase women move,0.021475634,0.87580544,0.1027189,0.87580544,Neutral
+06/05/2021,jpmorgan,global firms target trade finance deals incorporate sustainable technologies meet rising demand esg investing,0.004930039,0.43269816,0.5623719,0.5623719,Positive
+04/05/2021,jpmorgan,industrywide innovation digitalization offer opportunities global trade get back track,0.003794801,0.21817447,0.77803063,0.77803063,Positive
+28/04/2021,jpmorgan,new platform partnership dbs temasek leverage blockchain technology speed crossborder payments trade transactions foreign exchange settlements,0.004362456,0.5917903,0.4038473,0.5917903,Neutral
+15/04/2021,jpmorgan,includes recent billion commitment advance racialequity,0.009604353,0.68211913,0.30827656,0.68211913,Neutral
+15/04/2021,jpmorgan,supporting development finance focus supporting socioeconomic development quality life developing countries originating structuring transactions mobilize capital advance united nations sdgs emerging economies,0.005907381,0.49774292,0.49634966,0.49774292,Neutral
+09/04/2021,jpmorgan,mary callahan erdoes success would possible without constant reinvestment business,0.06278062,0.6905111,0.24670835,0.6905111,Neutral
+30/03/2021,jpmorgan,esg investing passes first stress test sustainabilitylinked bond boom according experts,0.008122827,0.46415678,0.52772033,0.52772033,Positive
+29/03/2021,jpmorgan,jp morgan christine moy naveen mallela discuss expect future payments,0.044635106,0.9303328,0.025032097,0.9303328,Neutral
+19/03/2021,jpmorgan,battery electric vehicle adoption steadily rising north america,0.004638813,0.42498192,0.5703792,0.5703792,Positive
+12/03/2021,jpmorgan,jp morgans wholesale payments team continues invest future financial technology global clients,0.005079448,0.6166379,0.37828255,0.6166379,Neutral
+11/03/2021,jpmorgan,rt yahoofinance guess going see instability bond market next three four months ec,0.22259188,0.74178195,0.03562625,0.74178195,Neutral
+09/03/2021,jpmorgan,times uncertainty people likely speculate read tips using research longterm outlook make investment decisions,0.25771114,0.7080675,0.034221414,0.7080675,Neutral
+08/03/2021,jpmorgan,inspired incredible women list including eight influential leaders right jpmorgan chase congratulations,0.001765118,0.021437442,0.97679734,0.97679734,Positive
+26/02/2021,jpmorgan,work underwriting esg risk bonds innovating new products sustainable finance space core future business,0.008236498,0.6788031,0.31296042,0.6788031,Neutral
+25/02/2021,jpmorgan,fast markets stock prices change rapidly course single day discover methods might help limit surprises,0.039519284,0.6963916,0.26408914,0.6963916,Neutral
+23/02/2021,jpmorgan,strategic investment fintech zanbato complements firm commitment support clients across private market ecosystem make markets liquid reliable,0.004989364,0.3828675,0.6121431,0.6121431,Positive
+18/02/2021,jpmorgan,energy transition esg interest acceleratingesg bonds proved resilient market issuance increasing largest dollar increase date,0.007394387,0.5573959,0.4352098,0.5573959,Neutral
+18/02/2021,jpmorgan,equity markets show resiliencedespite pandemic equity market performance remained strong resulting expected increase issuance,0.004117676,0.27397603,0.72190636,0.72190636,Positive
+18/02/2021,jpmorgan,debt markets rebounded record pacecentral bank policies aided rapid recovery debt markets resulting high levels investment grade high yield debt issuances,0.00464964,0.2376269,0.7577233,0.7577233,Positive
+18/02/2021,jpmorgan,mixed recovery timelines expected us firms strong cash positions lower uncertaintyin nearly twothirds sampp firms recover eps levels smaller firms face slower recovery firms sizes strengthened cash balance sheet,0.015209923,0.53730273,0.44748738,0.53730273,Neutral
+17/02/2021,jpmorgan,corporates expected see increase shareholder activism focus esg,0.005617851,0.5755342,0.41884804,0.5755342,Neutral
+16/02/2021,jpmorgan,year sustainabilitylinked bonds marilyn ceci global head esg debt capital markets jp morgan discusses sustainable finance market business,0.010856016,0.8905404,0.098603405,0.8905404,Neutral
+10/02/2021,jpmorgan,jp morgan annual etrading survey results turbulent year traders looking leverage technology discover could affect execution style,0.12863363,0.83133096,0.040035337,0.83133096,Neutral
+10/02/2021,jpmorgan,rt cityam exlabour mp chuka umunna hired jpmorgan esg rolechuka umunna hired jpmorgan head environmental,0.1740355,0.8004056,0.02555889,0.8004056,Neutral
+08/02/2021,jpmorgan,three leading executives named diversitywomans elite list black women changing game corporate america read,0.011115949,0.79779154,0.19109248,0.79779154,Neutral
+03/02/2021,jpmorgan,factors accelerating esg investment flows jp morgan global research explains,0.027222015,0.8999022,0.07287572,0.8999022,Neutral
+27/01/2021,jpmorgan,proud recognized greenwich associates global leader digital treasury payments multiple rankings cash management innovation digital capabilities quality advice,0.001323884,0.064803384,0.93387264,0.93387264,Positive
+13/01/2021,jpmorgan,moderna ceo stephane bancel speaks protecting public future vaccinations play key role,0.022964008,0.73246324,0.24457274,0.73246324,Neutral
